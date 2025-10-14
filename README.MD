@@ -75,7 +75,8 @@ No confidential or proprietary information is shared.
 
 ## 🧩 Connect
 **LinkedIn:** [Joaquín Ferrer](https://www.linkedin.com/in/joaqu%C3%ADnferrer/)  
-**Portfolio (Notion):** [https://www.notion.so/Joaqu-n-Ferrer-Professional-Portfolio-2163e852260a808f9377e971506e0f1f]
+**Portfolio:** [Notion](https://www.notion.so/Joaqu-n-Ferrer-Professional-Portfolio-2163e852260a808f9377e971506e0f1f)
 **GitHub:** [joacoferrer00](https://github.com/joacoferrer00)
+
 
 
